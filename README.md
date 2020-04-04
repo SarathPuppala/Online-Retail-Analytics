@@ -1,2 +1,2 @@
 # Online-Retail-Analytics
-Data Scientist Competition
+Data Science Competition
